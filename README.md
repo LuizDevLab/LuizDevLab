@@ -1,8 +1,10 @@
 # 👨‍💻 Luiz Henrique
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor em formação`**
 
-Me chamo Luiz Henrique, tenho 20 anos e sou estudante de Ciência da Computação. Tenho maior proficiência no desenvolvimento backend, utilizando tecnologias como **Python/Django**, **PHP** e **Docker**. No front-end, possuo conhecimentos básicos com **React**, **HTML**, **CSS** e **Bootstrap**. Estou sempre buscando aprender mais e aprimorar minhas habilidades como desenvolvedor.
+E aí! Me chamo Luiz Henrique, sou estudante de Ciência da Computação e apaixonado por tecnologia. Tenho mais afinidade com o backend — é onde me sinto mais em casa, trabalhando com Python, Django, PHP, Docker e companhia.  
+Mas não me limito por aí: também curto explorar o front-end nas horas vagas, brincando com React, HTML, CSS e Bootstrap.  
+Tô sempre aprendendo e buscando evoluir como dev!
 
 ---
 
