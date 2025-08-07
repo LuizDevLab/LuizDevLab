@@ -37,3 +37,6 @@ Me chamo Luiz Henrique, tenho 20 anos e sou estudante de Ciência da Computaçã
     alt="Linguagens mais usadas"
   />
 </p>
+
+![Snake animation](https://github.com/LuizDevLab/LuizDevLab/blob/output/dist/github-contribution-grid-snake.svg)
+
