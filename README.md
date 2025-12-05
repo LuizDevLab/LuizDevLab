@@ -28,17 +28,17 @@ Tô sempre aprendendo e buscando evoluir como dev!
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuizDevLab&show_icons=true&theme=tokyonight&locale=pt-br" 
-    height="200"
-    alt="Estatísticas do GitHub"
-  />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=LuizDevLab&show_icons=true&theme=tokyonight&locale=pt-br" 
+      height="200"
+    />
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevLab&layout=compact&theme=tokyonight&locale=pt-br"
     height="200"
-    alt="Linguagens mais usadas"
   />
+
 </p>
 
-![Snake animation](https://github.com/LuizDevLab/LuizDevLab/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LuizDevLab/LuizDevLab/output/dist/github-contribution-grid-snake.svg)
 
