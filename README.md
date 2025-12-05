@@ -29,14 +29,15 @@ Tô sempre aprendendo e buscando evoluir como dev!
 
 <p align="left">
   <img 
-    src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=LuizDevLab&theme=tokyonight&show_icons=true" 
+    src="https://github-readme-stats-bay-psi.vercel.app/api?username=LuizDevLab&show_icons=true&theme=tokyonight"
     height="200"
   />
 
   <img 
-    src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=LuizDevLab&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-bay-psi.vercel.app/api/top-langs/?username=LuizDevLab&layout=compact&theme=tokyonight"
     height="200"
   />
+
 
 
 </p>
